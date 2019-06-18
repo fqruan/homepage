@@ -1,6 +1,7 @@
 package com.orange.homepage.controller;
 
 import com.orange.homepage.bean.Person;
+import com.orange.homepage.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
